@@ -1,0 +1,3 @@
+push constant 220
+push constant 113
+gt
